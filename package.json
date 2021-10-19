@@ -5,6 +5,9 @@
   "repository": "https://github.com/ItaloDRocha/NLW-HEAT.git",
   "author": "italoDRocha <italorocha305@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/app.ts"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
